@@ -1,0 +1,45 @@
+ Atualização Site pra família  Subir
+
+ _______________________________________________________________________________
+ tela inicial 
+  
+ correção do texto
+
+ Correção de imagem 
+ 
+ Correção de Vídeo
+ 
+ correção das configuração --- css configurado
+ 
+ Verificar palavra para verificar se vai ficar "Acesso" depende do tipo de configuração que vai ter o menu. 
+ 
+ configura min-width ( Valor Mínimo) --- ok
+ configura max-width ( Valor Máximo) ---ok
+ 
+ ________________________________________________________________________________
+ Tela pai
+ 
+ Correção do ico
+ 
+ correção e criação de tela
+
+correção das configuração --- css configurado
+ 
+  ________________________________________________________________________________
+ Tela Mãe
+ 
+ Correção do ico
+ 
+ correção e criação de tela 
+
+correção das configuração --- css configurado
+ 
+  ________________________________________________________________________________
+ Tela Vicente
+ 
+ Correção do ico
+ 
+ correção e criação de tela
+
+correção das configuração --- css configurado
+ 

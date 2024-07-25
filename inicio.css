@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CL:wght@100..400&family=Playwrite+HU:wght@100..400&display=swap');
+
+
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin: auto;
+}
+
+head{
+    min-width: 300px;
+    max-width: 1000px;
+}
+
+nav{
+    margin:4px;
+    padding:4px;
+   }
+
+   nav > a {
+         padding-left: 20px;
+    }
+
+    header {
+        background-color: rgba(0, 0, 255, 0.63);
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 20px;
+        border-radius: 20px;
+        min-width: 150px;
+       }
+       header > h1{
+        text-align: center;
+    }
+
+         
+         header > h1 {
+            font-family: "Playwrite HU", cursive;
+            font-optical-sizing: auto;
+            font-weight: weight;
+            font-style: normal;
+         }
+
+         main{
+            font-family: "Playwrite CL", cursive;
+            font-optical-sizing: auto;
+            font-weight: weight;
+            font-style: normal;
+            font-size: large;
+            background-color: rgb(127, 136, 255);
+            margin:20px;
+            margin: auto;
+            border-radius: 20px;
+            min-width: 150px;
+         }
+         main > img{
+            width: 100%;
+         }
+
+         footer{
+            background-color: rgb(127, 146, 255);
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 20px;
+            padding-left:500px;
+         }
+
+    
+         
+        
+    
+
+
+
