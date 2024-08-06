@@ -1,8 +1,7 @@
 @charset "utf-8";
  
-
 body{
-    background-color: aquamarine;
     background-image: url(Fotos/fundo.png);
-    background-size: cover;
+background-size: cover;
+
 }
