@@ -3,5 +3,8 @@
 body{
     background-image: url(Fotos/fundo.png);
 background-size: cover;
-
 }
+ header{
+    font-family:yellow;
+ }
+ 
