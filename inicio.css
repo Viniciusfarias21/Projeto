@@ -52,9 +52,15 @@ nav{
             font-size: large;
             background-color: rgba(127, 136, 255, 0.329);
            text-align: center;
-           border-radius: 50px;
-          
+           border-radius: 60px;
+           
+         }
 
+         section.teste{
+            
+            width: 300px;
+            height: 400px;
+            
          }
        
             footer{
